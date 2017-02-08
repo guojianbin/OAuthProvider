@@ -1,6 +1,19 @@
 # OAuthProvider
 用于mvc项目简单实现第三方登陆。基础代码源于http://www.aspku.com/kaifa/net/127890.html
 
+* 配置
+
+    <!--新浪微博登录相关配置-->
+    <add key="OAuth_Sina_AppKey" value="123456789" />
+    <add key="OAuth_Sina_AppSecret" value="25f9e794323b453885f5181f1b624d0b" />
+    <!--QQ登录相关配置-->
+    <add key="OAuth_QQ_AppId" value="1105900017" />
+    <add key="OAuth_QQ_AppKey" value="y7s4uLbkzbUttVdr" />
+    <add key="Host_Url" value="http://m.yxcps.cn/" />
+    <!--微信登录相关配置-->
+    <add key="OAuth_Weixin_AppId" value="wx906c9aa9d539a1d0" />
+    <add key="OAuth_Weixin_AppSecret" value="25f9e794323b453885f5181f1b624d0b" />
+
 * 开启登陆
 
         protected void Application_Start()
