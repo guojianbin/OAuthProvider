@@ -9,7 +9,6 @@
     <!--QQ登录相关配置-->
     <add key="OAuth_QQ_AppId" value="1105900017" />
     <add key="OAuth_QQ_AppKey" value="y7s4uLbkzbUttVdr" />
-    <add key="Host_Url" value="http://m.yxcps.cn/" />
     <!--微信登录相关配置-->
     <add key="OAuth_Weixin_AppId" value="wx906c9aa9d539a1d0" />
     <add key="OAuth_Weixin_AppSecret" value="25f9e794323b453885f5181f1b624d0b" />
