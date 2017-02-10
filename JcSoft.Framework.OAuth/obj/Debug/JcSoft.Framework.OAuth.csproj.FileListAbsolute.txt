@@ -4,3 +4,9 @@ C:\Users\zhanghailong.AD\Documents\test projects\Mvc5Admin\JcSoft.Framework.OAut
 C:\Users\zhanghailong.AD\Documents\test projects\Mvc5Admin\JcSoft.Framework.OAuth\JcSoft.Framework.OAuth\bin\Debug\Newtonsoft.Json.xml
 C:\Users\zhanghailong.AD\Documents\test projects\Mvc5Admin\JcSoft.Framework.OAuth\JcSoft.Framework.OAuth\obj\Debug\JcSoft.Framework.OAuth.dll
 C:\Users\zhanghailong.AD\Documents\test projects\Mvc5Admin\JcSoft.Framework.OAuth\JcSoft.Framework.OAuth\obj\Debug\JcSoft.Framework.OAuth.pdb
+C:\Users\zhanghailong.AD\Documents\test projects\Mvc5Admin\JcSoft.Framework.OAuth\OAuthProvider\JcSoft.Framework.OAuth\obj\Debug\JcSoft.Framework.OAuth.dll
+C:\Users\zhanghailong.AD\Documents\test projects\Mvc5Admin\JcSoft.Framework.OAuth\OAuthProvider\JcSoft.Framework.OAuth\obj\Debug\JcSoft.Framework.OAuth.pdb
+C:\Users\zhanghailong.AD\Documents\test projects\Mvc5Admin\JcSoft.Framework.OAuth\OAuthProvider\JcSoft.Framework.OAuth\bin\Debug\JcSoft.Framework.OAuth.dll
+C:\Users\zhanghailong.AD\Documents\test projects\Mvc5Admin\JcSoft.Framework.OAuth\OAuthProvider\JcSoft.Framework.OAuth\bin\Debug\JcSoft.Framework.OAuth.pdb
+C:\Users\zhanghailong.AD\Documents\test projects\Mvc5Admin\JcSoft.Framework.OAuth\OAuthProvider\JcSoft.Framework.OAuth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zhanghailong.AD\Documents\test projects\Mvc5Admin\JcSoft.Framework.OAuth\OAuthProvider\JcSoft.Framework.OAuth\bin\Debug\Newtonsoft.Json.xml

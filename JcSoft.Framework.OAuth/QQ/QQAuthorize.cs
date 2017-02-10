@@ -80,5 +80,10 @@ namespace JcSoft.Framework.OAuth.QQ
 
             return user["openid"];
         }
+
+        public UserInfoModel GetUserInfo(string accessToken, string openId)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

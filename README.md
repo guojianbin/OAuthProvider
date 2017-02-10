@@ -11,7 +11,9 @@
     <add key="OAuth_QQ_AppKey" value="y7s4uLbkzbUttVdr" />
     <!--微信登录相关配置-->
     <add key="OAuth_Weixin_AppId" value="wx906c9aa9d539a1d0" />
-    <add key="OAuth_Weixin_AppSecret" value="25f9e794323b453885f5181f1b624d0b" />
+    <add key="OAuth_Weixin_AppSecret" value="25f9e794323b453885f5181f1b624d0b" />	
+    <!--OAuth RedirectUrl-->
+    <add key="OAuth_RedirectUrl" value="http://www.app.com/account/unionlogin"/>
 ```
 
 * 开启登陆

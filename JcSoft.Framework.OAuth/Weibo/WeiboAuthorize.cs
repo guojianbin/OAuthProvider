@@ -58,6 +58,10 @@ namespace JcSoft.Framework.OAuth.Weibo
             var url = Option.AuthorizationEndpoint + parms;
             return url;
         }
-        
+
+        public UserInfoModel GetUserInfo(string accessToken, string openId)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

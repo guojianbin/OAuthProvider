@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Specialized;
+using System.Configuration;
 using System.IO;
 using System.Net;
 using System.Security.Cryptography;
@@ -9,11 +10,15 @@ using System.Web;
 
 namespace JcSoft.Framework.OAuth
 {
+
     public abstract class BaseOAuth
     {
-
+        public string AppId { get; set; }
+        public string AccessToken { get; set; }
         public abstract void Login(HttpContext context);
-        public abstract dynamic Callback(HttpContext context,out string openId);
+        public abstract dynamic Callback(HttpContext context, out string openId);
+
+        protected string RedirectUrl = ConfigurationManager.AppSettings["OAuth_RedirectUrl"];
 
         #region 内部使用函数
 
